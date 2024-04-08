@@ -1,0 +1,31 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 163
+        length: 42
+        placeholder_text: /* Implement the function as documented */
+        initial_state:
+          length: 42
+          offset: 163
+        initialized_from_dependency: false
+        encrypted_possible_answer: J8Bvkjagnyo4uo2adKXD265GRnefg1PA4v57vjQo8W+xn6oU5HQXC90QYOGg8Tvmww8SA85DYfSJeQPMm57GrEymONwqaNimDr8LF+CmJwCWmXUKE/Rx08If+GBJ7Icj5e7w2BwzG6CTfNn91UWLke52TVWY1IBd2Lc6VyMoKbztUlm4+kvCl7TW45oDehP0nbacQCwOa4sM6uriuNKUsYN5G4Y300zA3K+0Roz+T8QfYPMsvlNBQs60Lx6JrcVB
+        selected: false
+        status: Unchecked
+    encrypted_text: VUVgVldm4cAJvY7nMqtDgzowU8uejc7PG7URXvZ2qaa2KBw0W2rPK9dhtzRtAj5IXVc30+O33RvMgjG0WEk6mqeHbrqVyvBr5xwgjyr0TkCsSp6rfv2uAzXg4+lMbmrPbdMUS2WE1VxmfPEno4GV2tbrbCbH2den+8s+pDAtcOau6JXc740iNIL9mJVGrSMsomy348DEpEVLg5+DS4lCd1s8aFxXUbqutUbBxa07mi8apQ+X5g/7mt8FJoxejPS4ZDN+GhKYjBQeqrdrEw06zw==
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    encrypted_text: JLzv/Xt662f9Wz+LNKyjxeQ+CUUMBal3E/FAQ4j37EdHyRa89SOiDTIXsb+N4Bkz8QtIRILCT68u6yVsnYVL+fPJRBJg2JHVd3SZe4lOgAGbDbgXbwNm4+yGYeu+vt9Y03iPJpURDRPxfiFp429zj/CGOccod9SRdbm0Et6Ueh3E9UgXxJ4lnpj3PgJYBN/sfR5o9TM++GJTkXXteFCF2v4BHcC/54fEWCUE14mQEqz6gBZgg1Rti5wzqX+M6qRY6bgrGXbKo9dqjwaUVdklGAL3JEsa490rJxuNzX+33or61gcXywGCbYGpW7TC3pNbSMn4Zldzjz/gVeprt1CC+uHhfO0gQSAdK3RdO9ysT8svXv6RMsPy6Y96grpeAOgeinNY8loYsgkPaVD9bjG5QUlY8e+6XNZqm1NLPNghudv+3mSkZ5tfDGjd4Mg2FoZapfjCPaLt/R4Km5fbPgXHGrljPS45SLAQrSQCFUdzFSDLCgNBjPFwNbr8NZG2K2X1yMihOB4qwNY6CzjMGEidlGN3bmhLuGoSdrO6SJnPfGnH50SKIdUV2Euj/9cCIvTG2aMPEwT9t1l4Y3V+0i1Q7Ulgzm0CI4fLv3JoIwTezVW2WPYe70wQ6jmrGW4AfOrMV6xkwR/YIjJgVqm840z4O6/31c6D1qCGKyg7iwhkVh6TmQRB9AhjT6emzoPPGQr+FkagvSEEMvshLAKivmj5d+ceQvpRezeM05Cj85D/tyx3+Ak3z1Km3AlShVgt7nSYnzRYdBbGQfmAUzfj2FgWv/MNxV+kRqolURL6lUVMwCoEojA8MdwAizAxxRV65r4fWChkjEXN1tJm2PtT04vZKc6w/htIRCCjNs8hHq9pLhpXN6nXTwjuzQOOWgB5gNBZCc/VLMhzkG0b+DfHxatPe4t+nWKAG7Ifz0HptG2AUb+WzzzPzEAgLm/BGD3E4J0qa8AQ+vjkalitjJEA8czaqKC+G6WXlZD8c4iBRbyRQ7mewsRpOGP4BGeIIQ4uMPtIoG9Jc/bSWVws0OVKByTUWYbTR/mShvfDKEw4tSZBiy7EMvDiMnDy6adcBAK8IMyvJk/Kas8BoHl3VbkseQr/FSPAh2McjmKyvrZu3RCWhAoIWWY0+jqUDfW9sivqAOixePvpS0q97ja+7BuRfNE8cBBPFgsAcfeBG8Cq1HQ6Izu0QQBNip/sn14FsGlcu+x7Otlzpu8BUqy/CUWSEcWelUtrqkHRggTXJ5sD5YGFE6rMI6In/XrqBF4QQ1teofeo9CYdoMfObd8Lx76hUtInCix9Y0b8QFBm5PFcrwWDGseeCHxSyMw/0KGkbmh4L3gwj4D1PMWUSENRRsqwyzl3fQ==
+    learner_created: false
+  - name: users.json
+    visible: true
+    encrypted_text: ULunr+PzdUSfi7ZQ/wKSxcX7drICjHcjBDfVn9AtrQwLKOLACShGmOvA3d5NjXYIPrvJCEAr62s7cQe8tltG5fHfyzBot0mLFZUUDqXfw4AXnvNd6nUIG66jU0Bo+cbaLwNEqMsFizOd2xdgHrFGnZ9Lz6Vupqi1LaTkd0j/oC6fpm8lGgdaL0hjgHiT0xciARvNaZtqu8e6csKimf1bGLq2LPJM05z4HGXoGo4mmOE=
+    learner_created: false
+  - name: users_faulty.json
+    visible: true
+    encrypted_text: ULunr+PzdUSfi7ZQ/wKSxcX7drICjHcjBDfVn9AtrQwLKOLACShGmOvA3d5NjXYIPrvJCEAr62s7cQe8tltG5fHfyzBot0mLFZUUDqXfw4AXnvNd6nUIG66jU0Bo+cbaLwNEqMsFizOd2xdgHrFGnRBX86bXVM3JwrEoYRBdyl0DQG5hLJLZF5ta+3HXKKHM+F6tTssyfGs8o+BJ//4XE8k/UWBrjaRSxEaudtRv+Jc=
+    learner_created: false
+status: Unchecked
+record: -1
